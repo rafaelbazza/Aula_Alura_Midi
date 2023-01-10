@@ -1,0 +1,1 @@
+Praticando o desenvolvimento da aplicação realizada no curso da Alura Javascript para web: Crie páginas dinâmicas.
